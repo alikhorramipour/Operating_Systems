@@ -1,0 +1,11 @@
+#!/bin/bash
+ls >> output
+a=24
+echo $a
+echo "$a"
+echo "The value of \"a\" is $a."
+echo "$0"
+echo "$#"
+echo "$@"
+echo "$$"
+echo "$USER"

@@ -1,0 +1,1 @@
+cmd_/home/khoramipour/Desktop/OS/2/main.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/khoramipour/Desktop/OS/2/main.ko /home/khoramipour/Desktop/OS/2/main.o /home/khoramipour/Desktop/OS/2/main.mod.o
